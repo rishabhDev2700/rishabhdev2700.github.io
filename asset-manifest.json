@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.91d92357.css",
-    "main.js": "/static/js/main.a74e1c20.js",
+    "main.js": "/static/js/main.cc203998.js",
     "static/media/profile.jpg": "/static/media/profile.a8a20740970bd4ae6fe3.jpg",
     "static/media/flask-logo.png": "/static/media/flask-logo.921b1026490025792d4e.png",
     "static/media/HTML5-logo.png": "/static/media/HTML5-logo.b02cd82107034f61bb70.png",
@@ -10,10 +10,10 @@
     "static/media/CSS-logo.png": "/static/media/CSS-logo.aa2e36ec41a22059eda5.png",
     "index.html": "/index.html",
     "main.91d92357.css.map": "/static/css/main.91d92357.css.map",
-    "main.a74e1c20.js.map": "/static/js/main.a74e1c20.js.map"
+    "main.cc203998.js.map": "/static/js/main.cc203998.js.map"
   },
   "entrypoints": [
     "static/css/main.91d92357.css",
-    "static/js/main.a74e1c20.js"
+    "static/js/main.cc203998.js"
   ]
 }
