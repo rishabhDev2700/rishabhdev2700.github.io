@@ -58,10 +58,9 @@ margin: 0rem auto;
 display: flex;
 flex-direction: column;
 justify-content: space-between;
-@media screen and (min-width:768px){
+@media screen and (min-width:1628px){
     padding: 2rem 5rem;
     width:70%;
-    height:75vh;
 }
 `
 const Name = styled.h1`
